@@ -1,0 +1,14 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.Form2.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.Form3.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.Form4.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\bin\Debug\Week6_P3_.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\bin\Debug\Week6_P3_.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\bin\Debug\Week6_P3_.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Week6_P3_\obj\Debug\Week6_P3_.pdb
